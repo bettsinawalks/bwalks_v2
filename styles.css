@@ -3,7 +3,7 @@
 body {
   background-color: #121212;
   margin: 0 auto 0 auto;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   line-height: 1.2;
   max-width: 1920px;
@@ -11,7 +11,8 @@ body {
    
 h1 {
   margin: auto;
-  font-size: 100px;
+  font-family: 'Silkscreen', cursive;
+  font-size: 90px;
   font-weight: 800;
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
   background-size: 200% 200%;
@@ -45,9 +46,15 @@ h3 {
     color: white;
 }
 
+h4 {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: 'Roboto Mono', monospace;
+  color: white;
+}
+
 p {
   font-size: 18px;
-  font-family: 'Roboto Mono', monospace;
   color: white;
 }
 
@@ -95,7 +102,7 @@ a :visited {
   color: white;
   padding: 0px 20px;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 500;
   text-align: right;
 }
