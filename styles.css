@@ -271,14 +271,13 @@ img {
   body {
     background-color: #fff;
     color: #283d3b;
-    margin: 0 auto 0 auto;
-    font-family: 'Roboto Mono', monospace;
+    margin: 15px;
     font-weight: 300;
     line-height: 1.2;
   }
 
   .topnav {
-    margin: 50px 10px 0px 10px;
+    margin: 50px 8px 0px 8px;
     overflow: hidden;
     display: flex;
     flex-flow: column;
@@ -316,7 +315,6 @@ img {
 
   p {
     font-size: 16px;
-    font-family: 'Roboto Mono', monospace;
   }
 
   .flex_column {
@@ -389,7 +387,6 @@ img {
     background-color: #fff;
     color: #283d3b;
     margin: 0 auto 0 auto;
-    font-family: 'Roboto Mono', monospace;
     font-weight: 300;
     line-height: 1.2;
   }
@@ -412,7 +409,6 @@ img {
 
   p {
     font-size: 15px;
-    font-family: 'Roboto Mono', monospace;
   }
 
   .flex_column {
@@ -485,7 +481,6 @@ img {
     background-color: #fff;
     color: #283d3b;
     margin: 0 auto 0 auto;
-    font-family: 'Roboto Mono', monospace;
     font-weight: 300;
     line-height: 1.2;
   }
@@ -509,7 +504,6 @@ img {
 
   p {
     font-size: 16px;
-    font-family: 'Roboto Mono', monospace;
   }
 
   .flex_column {
